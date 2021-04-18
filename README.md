@@ -60,11 +60,9 @@ _[!] - necessary argument, [?] - unnecessary argument_
 **Python 3.6 and higher version**
 
 
-#### _To use this library you need to have the followingWinstalled modules:_
-1. **io**
-2. **tokenize**
-3. **re**
-4. **argparse**
+#### _To use this library you need to have the following installed modules:_
+1. **tokenize**
+2. **argparse**
 
 ---
 
