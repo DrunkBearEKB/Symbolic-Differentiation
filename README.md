@@ -69,8 +69,3 @@ _[!] - necessary argument, [?] - unnecessary argument_
 ---
 
 #### _Author: Ivanenko Grigoriy, Ural State Federal University, 2020._
-##### _Contacts:_
-##### _1. email: ivanenkogrig@yandex.ru_
-##### _2. telegram: @ivanekogrig_
-##### _3. vk.com: https://vk.com/drunkbearekb_
-##### _4. instagram: ivanenko_gr_
