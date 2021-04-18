@@ -1,6 +1,6 @@
 # _SymbolicDifferentiation_
 
-_Tip, it is better not to use this library, for example, a better thing in this regard is site **WolframAlpha** (https://www.wolframalpha.com/) or library **SympPy** (https://github.com/sympy/sympy)._
+_Tip, it is better not to use this library, for example, a better thing in this regard is site **WolframAlpha** (https://www.wolframalpha.com/) or library **SymPy** (https://github.com/sympy/sympy)._
 
 ---
 
